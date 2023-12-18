@@ -1,5 +1,5 @@
 {
-  "name": "Spectator Voice Icon Fix",
+  "name": "Spectator_Voice_Icon_Fix",
   "version_number": "1.0.0",
   "website_url": "https://github.com/ficcialfaint/LC-SpectatorVoiceIconFix",
   "description": "Fixes a visual bug wrongly showing the speaking icon when in spectator mode with push-to-talk.",
