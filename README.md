@@ -4,4 +4,4 @@ With the plugin, the speaking icon will only appear if you're holding the push-t
 > Requires [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 
 *The icon uses assets extracted from the game*
-![](D:\Git\LC-SpectatorVoiceIconFix\icon.png)
+![](icon.png)
